@@ -3,6 +3,7 @@ Discord Bot Rezer | Update Log
 
 Vorher | Nachher
 ------------ | -------------
-Willkommens-Nachricht Deaktiviert | Programmiert und fertig gestellt
---work war die Balance Undefiniert | Balance wurde fertig gestellt -> ${tempVars.money} 
+Willkommens-Nachricht Deaktiviert | Programmiert und fertiggestellt
+--work war die Balance Undefiniert | Balance wurde fertiggestellt -> ${tempVars.money} 
+--tutorials fehlte eine Reaktion | Wurde mit dem Embed fertiggestellt 
 
